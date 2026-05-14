@@ -1,7 +1,7 @@
 # Intro to Natural Language Processing using NLTK in Python
 
-**Published:** 2023-12-20
-**Medium:** [https://medium.com/@kyle-t-jones/intro-to-natural-language-processing-using-nltk-in-python-ddce6a0ff8ac](https://medium.com/@kyle-t-jones/intro-to-natural-language-processing-using-nltk-in-python-ddce6a0ff8ac)
+Published: 2023-12-20
+Medium: [https://medium.com/@kyle-t-jones/intro-to-natural-language-processing-using-nltk-in-python-ddce6a0ff8ac](https://medium.com/@kyle-t-jones/intro-to-natural-language-processing-using-nltk-in-python-ddce6a0ff8ac)
 
 ## About
 

@@ -153,7 +153,7 @@ Now we have a lot more info we can use to explore the reviews than just the star
 
 Another way of using NLP is through AI Services available from different cloud providers. This project uses the NLP services from AWS to look at geoscience documents.
 
-[**Natural Language Processing for Geoscience using Amazon Comprehend**\ *The endless rows of scientific publications and technical documents hid the critical geochronological details I needed...*medium.com](https://medium.com/@kylejones_47003/natural-language-processing-for-geoscience-using-amazon-comprehend-ec72c95d9c59 "https://medium.com/@kylejones_47003/natural-language-processing-for-geoscience-using-amazon-comprehend-ec72c95d9c59")[](https://medium.com/@kylejones_47003/natural-language-processing-for-geoscience-using-amazon-comprehend-ec72c95d9c59)
+[Natural Language Processing for Geoscience using Amazon Comprehend\ *The endless rows of scientific publications and technical documents hid the critical geochronological details I needed...*medium.com](https://medium.com/@kylejones_47003/natural-language-processing-for-geoscience-using-amazon-comprehend-ec72c95d9c59 "https://medium.com/@kylejones_47003/natural-language-processing-for-geoscience-using-amazon-comprehend-ec72c95d9c59")[](https://medium.com/@kylejones_47003/natural-language-processing-for-geoscience-using-amazon-comprehend-ec72c95d9c59)
 ### Related Stories
 - [[Learning Python by building a Simple Guessing Game](https://medium.com/@kylejones_47003/learning-python-by-building-a-simple-guessing-game-86d4f41fc2b8)]
 - [[Predictive Maintenance using Principal Component Analysis in python](https://medium.com/@kylejones_47003/predictive-maintenance-using-principal-component-analysis-in-python-43a33538fcb2)]
