@@ -108,9 +108,8 @@ We can use a simple example to see how VADER works.
 text = 'This was a good movie.'
 vader_scores = sid.polarity_scores(text)
 print(vader_scores)
-```
 
-``` 
+
 # Output:
 ```
 
@@ -119,9 +118,8 @@ The data comes from more than 34,000 customer reviews available on [Kaggle](http
 ```python
 import pandas as pd
 df = pd.read_csv("data/review_data.csv") 
-```
 
-``` 
+
 df.head()
 ```
 
