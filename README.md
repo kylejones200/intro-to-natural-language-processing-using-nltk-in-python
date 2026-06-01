@@ -11,14 +11,7 @@ This simple project shows how to use natural language processing to look at the 
 
 We use the `requests` module to get the book "Alice's Adventures in Wonderland" and then parse the document with `BeautifulSoup`.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
